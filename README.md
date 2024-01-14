@@ -30,12 +30,12 @@
 
 
 ### おまけ
-![top page capture](./pic1/image.png)
-![top page capture](.pic1/image%201.png)
 
-![top page capture](./pic1/image2.png)
+![image 1](https://github.com/sd08051sd08051/kadai10_class_20240106/assets/140617536/b2cc1c76-9ab5-4f3f-9b3d-775cf6681ba0)
+![image 2](https://github.com/sd08051sd08051/kadai10_class_20240106/assets/140617536/86ba186e-7c29-4596-8bee-fcca2c0ebe09)
+![image 3](https://github.com/sd08051sd08051/kadai10_class_20240106/assets/140617536/16dfc75c-80ac-44c7-b823-5264c692bacb)
+![image](https://github.com/sd08051sd08051/kadai10_class_20240106/assets/140617536/2a813c5e-3ae8-41c9-be60-423b3217c601)
 
-![top page capture](./pic1/image3.png)
 
 
 
