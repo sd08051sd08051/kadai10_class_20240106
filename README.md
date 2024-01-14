@@ -30,10 +30,10 @@
 
 
 ### おまけ
-![top page capture](./pic/image.png)
-![top page capture](./pic/image(1).png)
-![top page capture](./pic/image(2).png)
-![top page capture](./pic/image(3).png)
+![top page capture](./pic1/image.png)
+![top page capture](./pic1/image1.png)
+![top page capture](./pic1/image2.png)
+![top page capture](./pic1/image3.png)
 
 
 
