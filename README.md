@@ -31,8 +31,7 @@
 
 ### おまけ
 ![top page capture](./pic1/image.png)
-
-![top page capture](./pic1/image1.png)
+![top page capture](.pic1/image%201.png)
 
 ![top page capture](./pic1/image2.png)
 
