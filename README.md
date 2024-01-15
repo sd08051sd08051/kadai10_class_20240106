@@ -16,6 +16,7 @@
 -ログインはNextAuth
 -Stripe決済
 -店舗登録はMicroCMS
+![img](https://github.com/sd08051sd08051/kadai10_class_20240106/assets/140617536/9dcb5bd0-786b-4ac0-8e50-7514004767a8)
 
 ## ④難しかった点・次回トライしたいこと(又は機能)
 -Stripe決済のAPI連携
