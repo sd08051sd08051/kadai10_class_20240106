@@ -11,6 +11,8 @@ const PurchaseSuccess = () => {
 
   // console.log(sessionId);
 
+=fetch//(.//
+
   useEffect(() => {
     const fetchData = async () => {
       if (sessionId) {
